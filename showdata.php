@@ -9,7 +9,7 @@
     </head>
     <body>
         <div class="content">
-        <h1 style="text-align: center;">User Data</h1>
+        <h1 style="text-align: center;">User Data List</h1>
             <table class="content-table">
                 <?php 
                     require_once "dbh.php";
