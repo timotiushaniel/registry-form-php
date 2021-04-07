@@ -1,6 +1,6 @@
 <?php
 
-$servername = "localhost:8081";
+$servername = "172.18.0.3:3306";
 $dBUsername = "root";
 $dBPassword = "mypass123";
 $dBName = "MyDatabase";
