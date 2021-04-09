@@ -13,7 +13,6 @@
             <table class="content-table">
                 <?php 
                     require_once "dbh.php";
-                    echo "dbh success";
                     $read_data = "SELECT * FROM user";
                     if($result = mysqli_query($conn, $read_data)){
                         if(mysqli_num_rows($result) > 0){
