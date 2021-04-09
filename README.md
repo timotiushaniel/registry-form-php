@@ -7,8 +7,9 @@ In this project, I made two containers. The first container is for the web app t
 2. docker pull timotiustimmy186/mysql:2.0 -> Prepare the myqsl image to use the enviroment as the container for MySQL Database server
 3. Run Dockerfile inside the database directory in this repository
 4. Execute timotiustimmy186/ubuntu-form:2.0
-5. Enter ubuntu-form mode and start the apache2 services
-6. All done.
+5. Set up docker network to connect these two container
+6. Enter ubuntu-form mode and start the apache2 services
+7. All done.
 
 **If you want to use this repository, please give me a credit in your project
 **
